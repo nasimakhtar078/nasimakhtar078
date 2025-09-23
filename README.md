@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nasim Akhtar  
 
-<!--
-**nasimakhtar078/nasimakhtar078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Java Full Stack Developer** | 🚀 Passionate about building scalable web apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently exploring **React.js**, **Spring Boot**, and **Hibernate**  
+- 🛠 Skilled in both **Frontend** & **Backend** development  
+- 📫 Reach me at: **nasimakhtar2250i@gmail.com**  
+
+---
+
+## 🛠 Tech Stack
+### 💻 Languages
+- Java ☕ | SQL | JavaScript (ES6+)
+
+### 🏗️ Frameworks & Libraries
+- **Backend**: Spring Boot | Hibernate | Express.js  
+- **Frontend**: React.js | HTML5 | CSS3 | Bootstrap | Tailwind  
+
+### 🛢️ Databases
+- MySQL | PostgreSQL  
+
+---
+
+## 📊 GitHub Stats
+![Nasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimakhtar078&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimakhtar078&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+✉️ **Email**: [nasimakhtar2250i@gmail.com](mailto:nasimakhtar2250i@gmail.com)  
+
+
