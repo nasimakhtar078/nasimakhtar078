@@ -1,37 +1,122 @@
-# 👋 Hi there, I'm Nasim Akhtar  
+👋 Hi, I'm Nasim Akhtar
+💻 Java Full Stack Developer | ☕ Spring Boot & Microservices Enthusiast | 🚀 Building scalable, secure, and cloud-ready applications
 
-💻 **Java Full Stack Developer** | 🚀 Passionate about building scalable web apps  
+🚀 About Me
+Recruiter Friendly
+💼 Java Full Stack Developer with hands-on experience in enterprise application development.
 
----
+🌱 Currently exploring advanced Spring Boot, Microservices, Docker, Kubernetes, and AWS.
 
-## 🚀 About Me
-- 🌱 Currently exploring **React.js**, **Spring Boot**, and **Hibernate**  
-- 🛠 Skilled in both **Frontend** & **Backend** development  
-- 📫 Reach me at: **nasimakhtar2250i@gmail.com**  
+🔥 Passionate about designing RESTful APIs, scalable backend systems, and responsive frontend applications.
 
----
+📚 Continuously learning modern Java ecosystem tools and cloud-native technologies.
 
-## 🛠 Tech Stack
-### 💻 Languages
-- Java ☕ | SQL | JavaScript (ES6+)
+📫 Email: nasimakhtar2250i@gmail.com
 
-### 🏗️ Frameworks & Libraries
-- **Backend**: Spring Boot | Hibernate | Express.js  
-- **Frontend**: React.js | HTML5 | CSS3 | Bootstrap | Tailwind  
+🛠️ Tech Stack
+Java • Spring • React
+☕ Programming Languages
+Core
+Java
+SQL
+JavaScript (ES6+)
+⚙️ Backend Technologies
+Enterprise
+Spring Boot
+Spring MVC
+Spring Data JPA
+Hibernate
+Spring Security
+REST APIs
+🏗️ Microservices & Cloud
+Scalable Architecture
+Microservices
+Eureka Server
+API Gateway
+Config Server
+Feign Client
+WebClient
+Resilience4j
+Zipkin
+Kafka
+Redis
+JWT
+🎨 Frontend
+UI
+React.js
+HTML5
+CSS3
+Bootstrap
+Tailwind CSS
+🗄️ Databases
+Persistence
+MySQL
+PostgreSQL
+H2 Database
+☁️ DevOps & Tools
+Deployment Ready
+Git
+GitHub
+Docker
+Kubernetes
+Jenkins
+SonarQube
+AWS EC2
+Postman
+Swagger
+JUnit
+Mockito
+📌 Core Competencies
+Interview Ready
+RESTful API Development
 
-### 🛢️ Databases
-- MySQL | PostgreSQL  
+Microservices Architecture
 
----
+Service Discovery & API Gateway
 
-## 📊 GitHub Stats
-![Nasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasimakhtar078&show_icons=true&theme=radical)  
+Inter-Service Communication
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimakhtar078&layout=compact&theme=radical)
+JWT Authentication & Authorization
 
----
+Circuit Breaker & Fault Tolerance
 
-## 🌐 Connect with Me
-✉️ **Email**: [nasimakhtar2250i@gmail.com](mailto:nasimakhtar2250i@gmail.com)  
+Distributed Tracing with Zipkin
 
+Kafka Event-Driven Communication
 
+Redis Caching
+
+Docker & Kubernetes Deployment
+
+CI/CD with Jenkins
+
+Code Quality Analysis using SonarQube
+
+📊 GitHub Stats
+Public Profile
+Pranav Birajdar
+GitHubのプロフィールをカッコよくする方法①  GitHub Readme Stats, Github Profile Trophy編
+🌐 Connect With Me
+Open to Opportunities
+Email
+
+nasimakhtar2250i@gmail.com
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+
+Recruiter-Friendly Summary
+Best for Resume & GitHub
+Ye README 2–3 years experience Java Full Stack / Spring Boot / Microservices developer profile ke liye kaafi strong lagta hai.
+
+Isme recruiters ko immediately ye technologies dikh jayengi:
+
+Spring Boot
+Microservices
+Kafka
+Redis
+JWT
+Docker
+Kubernetes
+Jenkins
+AWS EC2
+SonarQube
