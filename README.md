@@ -1,122 +1,148 @@
-👋 Hi, I'm Nasim Akhtar
-💻 Java Full Stack Developer | ☕ Spring Boot & Microservices Enthusiast | 🚀 Building scalable, secure, and cloud-ready applications
+```markdown
+# 👋 Hi, I'm Nasim Akhtar
 
-🚀 About Me
-Recruiter Friendly
-💼 Java Full Stack Developer with hands-on experience in enterprise application development.
+💻 **Java Full Stack Developer** | ☕ **Spring Boot & Microservices Developer** | 🚀 Passionate about building scalable, secure, and cloud-native applications.
 
-🌱 Currently exploring advanced Spring Boot, Microservices, Docker, Kubernetes, and AWS.
+---
 
-🔥 Passionate about designing RESTful APIs, scalable backend systems, and responsive frontend applications.
+## 🚀 About Me
 
-📚 Continuously learning modern Java ecosystem tools and cloud-native technologies.
+- 💼 Java Full Stack Developer with hands-on experience in enterprise application development.
+- 🌱 Currently learning and building projects using **Spring Boot**, **Microservices**, **React.js**, **Docker**, **Kubernetes**, and **AWS**.
+- 🔥 Passionate about designing scalable backend systems and responsive web applications.
+- 📚 Continuously improving my skills in modern Java technologies and cloud-native architecture.
+- 📫 **Email:** **nasimakhtar2250i@gmail.com**
 
-📫 Email: nasimakhtar2250i@gmail.com
+---
 
-🛠️ Tech Stack
-Java • Spring • React
-☕ Programming Languages
-Core
-Java
-SQL
-JavaScript (ES6+)
-⚙️ Backend Technologies
-Enterprise
-Spring Boot
-Spring MVC
-Spring Data JPA
-Hibernate
-Spring Security
-REST APIs
-🏗️ Microservices & Cloud
-Scalable Architecture
-Microservices
-Eureka Server
-API Gateway
-Config Server
-Feign Client
-WebClient
-Resilience4j
-Zipkin
-Kafka
-Redis
-JWT
-🎨 Frontend
-UI
-React.js
-HTML5
-CSS3
-Bootstrap
-Tailwind CSS
-🗄️ Databases
-Persistence
-MySQL
-PostgreSQL
-H2 Database
-☁️ DevOps & Tools
-Deployment Ready
-Git
-GitHub
-Docker
-Kubernetes
-Jenkins
-SonarQube
-AWS EC2
-Postman
-Swagger
-JUnit
-Mockito
-📌 Core Competencies
-Interview Ready
-RESTful API Development
+## 🛠️ Tech Stack
 
-Microservices Architecture
+### ☕ Languages
+- Java
+- SQL
+- JavaScript (ES6)
 
-Service Discovery & API Gateway
+### ⚙️ Backend
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- Spring Security
+- REST APIs
+- Microservices
+- Maven
 
-Inter-Service Communication
+### 🔗 Microservices & Cloud
+- Eureka Server
+- Spring Cloud Config
+- API Gateway
+- Feign Client
+- WebClient
+- Resilience4j
+- Zipkin
+- Kafka
+- Redis
+- JWT Authentication
 
-JWT Authentication & Authorization
+### 🎨 Frontend
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
 
-Circuit Breaker & Fault Tolerance
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- H2 Database
 
-Distributed Tracing with Zipkin
+### ☁️ DevOps & Tools
+- Git & GitHub
+- Docker
+- Kubernetes
+- Jenkins
+- SonarQube
+- AWS EC2
+- Postman
+- Swagger (OpenAPI)
+- JUnit
+- Mockito
+- Eclipse
+- IntelliJ IDEA
+- VS Code
 
-Kafka Event-Driven Communication
+---
 
-Redis Caching
+## 📌 Core Competencies
 
-Docker & Kubernetes Deployment
+✔ RESTful API Development
 
-CI/CD with Jenkins
+✔ Spring Boot Development
 
-Code Quality Analysis using SonarQube
+✔ Microservices Architecture
 
-📊 GitHub Stats
-Public Profile
-Pranav Birajdar
-GitHubのプロフィールをカッコよくする方法①  GitHub Readme Stats, Github Profile Trophy編
-🌐 Connect With Me
-Open to Opportunities
-Email
+✔ Service Discovery (Eureka)
 
-nasimakhtar2250i@gmail.com
+✔ API Gateway
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+✔ Spring Cloud Config
 
-Recruiter-Friendly Summary
-Best for Resume & GitHub
-Ye README 2–3 years experience Java Full Stack / Spring Boot / Microservices developer profile ke liye kaafi strong lagta hai.
+✔ Inter-Service Communication
 
-Isme recruiters ko immediately ye technologies dikh jayengi:
+✔ Feign Client & WebClient
 
-Spring Boot
-Microservices
-Kafka
-Redis
-JWT
-Docker
-Kubernetes
-Jenkins
-AWS EC2
-SonarQube
+✔ JWT Authentication & Authorization
+
+✔ Kafka Event-Driven Architecture
+
+✔ Redis Caching
+
+✔ Distributed Tracing using Zipkin
+
+✔ Resilience4j (Circuit Breaker)
+
+✔ Docker & Kubernetes
+
+✔ CI/CD with Jenkins
+
+✔ Code Quality Analysis using SonarQube
+
+✔ Unit Testing (JUnit & Mockito)
+
+✔ Git Version Control
+
+---
+
+## 📂 Featured Projects
+
+- 🚀 Spring Boot CRUD REST API
+- 🚀 Employee Management System
+- 🚀 Student Management System
+- 🚀 Spring Boot Microservices Project
+- 🚀 React.js Frontend Applications
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimakhtar078&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimakhtar078&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nasimakhtar078&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:**  
+**nasimakhtar2250i@gmail.com**
+
+---
+
+⭐ **Thank you for visiting my GitHub profile!**
+
+If you like my projects, don't forget to ⭐ star the repositories and feel free to connect with me.
+
+Happy Coding! 🚀
+```
